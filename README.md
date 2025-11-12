@@ -1,2 +1,2 @@
-# QuickEats
+# FoodExpress
 Online food delivery website
